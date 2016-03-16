@@ -130,7 +130,9 @@
     <label for="personality">个人描述</label>
     <textarea name="multi" id="person" style="height: 30px;width: 150px" placeholder="这是一个多行输入框，输入您的个人描述"></textarea>
     <button name="submit">确认提交</button>
-    <p>版权所有&copy;</p>
+     <footer>
+     版权所有&copy;
+     </footer>
 </body>
 </html>
 Status API Training Shop Blog About
