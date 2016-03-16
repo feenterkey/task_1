@@ -106,8 +106,8 @@
 			</tbody>
 	
 		</table>
-    <div>
-                 <h2>这里以后是一个侧栏，这是侧栏的标题</br>侧栏注册窗口标题</h2>
+    <section>
+            <h2>这里以后是一个侧栏，这是侧栏的标题</br>侧栏注册窗口标题</h2>
             <form>
 	            <label for="label1">请输入邮箱地址： </label>
 	            <input type="text" name="text1" placeholder="这是一个文本输入框">
@@ -137,7 +137,7 @@
                     <button name="submit">确认提交</button>
                 
             </form>
-    </div>
+    </section>
    <footer>
      版权所有&copy;
    </footer>
