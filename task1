@@ -121,20 +121,20 @@
 	            <input type="radio" name="male" value="male" checked="checked" />男
 	            <input type="radio" name="male" value="male"/>女
                 
-                <label style="margin-left: 20px" for="city">城市</label>
+                    <label style="margin-left: 20px" for="city">城市</label>
                     <select name="city" id="city">
     	               <option value="beijing">北京</option>
     	               <option value="chengdu">成都</option>
                      </select>
 
-                <label for="hobby">爱好</label>
-                <input type="checkbox" name="option1" value="sport" />运动
-                <input type="checkbox" name="option2" value="art" />艺术
-                <input type="checkbox" name="option3" value="science" />科学
+                    <label for="hobby">爱好</label>
+                    <input type="checkbox" name="option1" value="sport" />运动
+                    <input type="checkbox" name="option2" value="art" />艺术
+                    <input type="checkbox" name="option3" value="science" />科学
 
-                <label for="personality">个人描述</label>
-                <textarea name="multi" id="person" style="height: 30px;width: 150px" placeholder="这是一个多行输入框，输入您的个人描述"></textarea>
-                <button name="submit">确认提交</button>
+                    <label for="personality">个人描述</label>
+                    <textarea name="multi" id="person" style="height: 30px;width: 150px" placeholder="这是一个多行输入框，输入您的个人描述"></textarea>
+                    <button name="submit">确认提交</button>
                 
             </form>
     </div>
